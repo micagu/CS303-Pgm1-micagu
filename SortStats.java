@@ -1,3 +1,4 @@
+//Stores the statistics of a sort algorithm
 public class SortStats {
     public String sortName;
     public String fileName;
