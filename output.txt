@@ -1,4 +1,4 @@
 Sort Name       File Name            Comparisons     Swaps      Loops      Runtime Estimate (ns)
-Radix Sort      1 (random)           7992            0          8036       2398300        
-Radix Sort      2 (ascending)        7992            0          8036       4299000        
-Radix Sort      3 (descending)       7992            0          8036       2409500        
+Radix Sort      1 (random)           7992            0          8036       4002100        
+Radix Sort      2 (ascending)        7992            0          8036       2187100        
+Radix Sort      3 (descending)       7992            0          8036       2054400        
