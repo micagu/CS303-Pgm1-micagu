@@ -37,11 +37,11 @@ public class Main{
         PrintWriter output = new PrintWriter("output.txt");
 
         //This prints the header for the output file
-        output.printf("%-15s %-20s %-15s %-10s %-10s %-15s\n",
+        output.printf("%-15s %-20s %-13s %-10s %-10s %-15s\n",
             "Sort Name",
             "File Name",
-            "Comparisons",
             "Swaps",
+            "Comparisons",
             "Loops",
             "Runtime Estimate (ns)");
 
